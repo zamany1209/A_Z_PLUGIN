@@ -1,0 +1,15 @@
+{
+  "name": "a_z_plugin",
+  "version": "1.0.0",
+  "description": "Package for Plugin wordpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "zamany1209"
+  },
+  "author": "zamany",
+  "license": "ISC"
+}

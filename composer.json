@@ -1,0 +1,10 @@
+{
+    "name": "zaman/a_z_plugin",
+    "type": "composer-plugin",
+    "require": {
+        "cmb2/cmb2": "dev-master"
+    },
+    "autoload": {
+        "files": ["vendor/cmb2/cmb2/init.php"]
+    }
+}
